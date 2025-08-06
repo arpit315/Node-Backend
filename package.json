@@ -11,7 +11,7 @@
     "node",
     "chai"
   ],
-  "author": "arpit kumar",
+  "author": "Arpit Kumar",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.0",
